@@ -1,0 +1,3 @@
+npm install express morgan dotenv nodemon cors -D -E
+npm install 
+.\ngrok.exe http 3000
